@@ -8,3 +8,7 @@ This application lets users create, view, and edit flashcards and decks. Decks, 
 - CSS
 - Bootstrap
 - Json-Server
+
+## Screenshots
+### Home Page
+
